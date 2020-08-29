@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Bar do Binho</ShortName>
+	<Description>Search Bar do Binho - The House of Port</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://bardobinho.wordpress.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://bardobinho.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://bardobinho.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://bardobinho.wordpress.com/osd.xml" />
+	<LongName>Bar do Binho</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://bardobinho.files.wordpress.com/2018/06/cropped-logotipo-bar-do-binho-3.png?w=16</Image>
+	<Image height="64" width="64" type="image/png">https://bardobinho.files.wordpress.com/2018/06/cropped-logotipo-bar-do-binho-3.png?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>grahams quevedo</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>pt-PT</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://bardobinho.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>
